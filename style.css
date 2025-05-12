@@ -6,6 +6,8 @@
 
 :root{
     font-family: "Inter", sans-serif;
+    font-size: 62.5rem;
+
     --background-primary: #F4F5FB;
     --background-secondary: #FFF;
     --color-brand: #CA3884;
@@ -17,4 +19,8 @@
     --always-white: #FFF;
     --border-primary: #D1D5DB;
     --border-hover: #B9C2D0;
+}
+
+body{
+    font-size: 1.6rem;
 }
