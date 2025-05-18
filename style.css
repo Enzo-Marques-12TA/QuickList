@@ -208,7 +208,7 @@ main{
             margin-bottom: 6.4rem;
         }
     }
-}
+
 
 .add-item{
     display: grid;
@@ -222,5 +222,6 @@ main{
 
     button{
         grid-column: 8 / 11;
+    }
     }
 }
